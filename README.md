@@ -1,3 +1,8 @@
+# Mohit Singh
+
+Android Developer & Learner
+
+
 # 💫 About Me:
 🔭 I’m currently working on Android Development<br><br>🌱 I’m currently learning JetPack Compose, MVVM, Retrofit<br><br>💬 Ask me about Android Development, Kotlin, JetPack Compose<br><br>📫 How to reach me mohitsingh732@yahoo.com
 
@@ -16,4 +21,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mohitsingh35&icon=8&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
